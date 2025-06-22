@@ -1,3 +1,4 @@
+
 // --- Main Game Variables and UI Elements ---
 const gameArea = document.getElementById("gameArea");
 const scoreDisplay = document.getElementById("score");
